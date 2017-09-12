@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace August2017
 {
+      //60% solved!!!
     public class Animal
     {
         private string name;
