@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace August2017
 {
-
+    //50% solved!!!
     public class Car
     {
         public string model;
